@@ -1,0 +1,16 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+
+# results directories
+exp_results/
+exp_scores/
+dataset/
+
+
+
+poetry.lock
+
+# local env
+.env
+*.ipynb
+.DS_Store
