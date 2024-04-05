@@ -18,7 +18,7 @@ class Experiment(ABC):
         self.scores = {}
 
         #for testing
-        self.test_data = self.test_data.head(2)
+        #self.test_data = self.test_data.head(2)
 
     @abstractmethod
     def task_to_run(self, row, **kwargs):

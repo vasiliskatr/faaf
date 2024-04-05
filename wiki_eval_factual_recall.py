@@ -10,8 +10,8 @@ def run_single_experiment(experiment_class, **parameters):
     experiment.run_experiment()
     print(f'\n--- Score Summary for {experiment.exp_name} ---')
     print(experiment.get_scores())
-    #experiment.save_scores()
-    #experiment.save_results()
+    experiment.save_scores()
+    experiment.save_results()
 
     return
 
