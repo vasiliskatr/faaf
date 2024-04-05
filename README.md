@@ -31,8 +31,8 @@ The dataset is programmatically fetched  from Hugging Face during with each eval
 
 1.**Clone the repository:**
 ```bash
-git clone https://github.com/yourusername/your-repository-name.git
-cd your-repository-name
+git clone https://github.com/vasiliskatr/faaf.git
+cd faaf
 ```
 2.**Install Dependencies:**
 Use Poetry to install the project dependencies and set up the virtual environment:
