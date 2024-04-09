@@ -7,7 +7,7 @@ This is the official release accompanying our 2024 paper, [FaaF: Facts as a Func
 If you find FaaF useful, please cite:
 ```
 @misc{katranidis2024faaf,
-      title={FaaF: Facts as a Function for the evaluation of RAG systems}, 
+      title={FaaF: Facts as a Function for the evaluation of generated text}, 
       author={Vasileios Katranidis and Gabor Barany},
       year={2024},
       eprint={2403.03888},
